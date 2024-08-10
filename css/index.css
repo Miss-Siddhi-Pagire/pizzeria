@@ -1,0 +1,132 @@
+.head-bar{
+    height: 50px;
+    border: 1px solid #2a2a2a;
+    background-color: #2e2d2d;
+}
+.why-choose{
+    margin-top: 100px;
+    color:#fffffe;
+    
+}
+.why-choose-card{
+    background-color: white;
+    width: 170px;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+    box-shadow: 0 0 10px 5px rgb(96, 88, 88) ;
+}
+.why-choose-img{
+    height: 60px;
+    display: block;
+    margin: 10px auto;
+
+}
+.why-choose-container{
+    display: flex;
+    justify-content: space-around;
+    background-color:  #f25f4c;
+    margin: 20px 0px;
+    padding: 20px;
+}
+.text-centre{
+            text-align: center;
+        }
+        
+.header-sec{
+    display: flex;
+    margin-top: 50px;
+}
+.header-img{
+    height: 250px;
+    border: 7px solid #f25f4c;
+    display: block;
+    margin: 20px auto;
+}
+.header-img-container{
+    
+    width: 50%;
+}
+.header-description-container{
+    width: 50%;
+    color: #f25f4c;
+}
+.app{
+
+   display: flex;
+   
+   
+   
+}
+.appbtn{
+    display: flex;
+    height: 40px;
+    width: 140px;
+    border: 1px solid #f25f4c;
+    padding: 10px 20px;
+    box-shadow: 0 0 10px 0px  #cc7716 ;
+    border-radius: 2px;
+    
+    
+}
+.apptext{
+    color: white;
+    margin-left: 20px;
+}
+.t1{
+    margin-left: 40px;
+}
+.t2{
+    margin-left: 400px;
+}
+.nounderline{
+    text-decoration: none;
+    color: white;
+}
+.contact-feedback{
+    display: flex;
+    margin-top: 40px;
+   
+    justify-content: space-evenly;
+    
+}
+.feedback{
+    color: white;
+    font-size: 15px;
+  
+}
+.follow{
+    color: white;
+    margin-left: 40px;
+}
+.fimg{
+    height: 30px;
+}
+.conatcdiv{
+    margin-top: 5px;
+}
+.lastline{
+    color: #f25f4c;
+    margin-top: 50px;
+    font-size: 15px;
+}
+.pizzalogo{
+    margin-left: 500px;
+}
+.head-text{
+    text-decoration: none;
+    color:white;
+    margin:0px 0px 0px 0px;
+    padding: 30px;
+}
+.btn{
+    color: white;
+    background-color: #2e2d2d;
+    margin: 10px 10px 30px 600px;
+    padding: 10px;
+    border: none;
+}
+.threeline{
+    margin-left: 20px;
+    margin-top:2px
+}

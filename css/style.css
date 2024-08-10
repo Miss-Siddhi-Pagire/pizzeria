@@ -1,0 +1,25 @@
+.Feature{
+
+    height: 250px;
+    display: flex;
+    justify-content: space-around;
+    margin: 0px 40px;
+}
+.Feature-div{
+    height: 200px;
+    width: 180px;
+    padding-top: 20px;
+    color: white;
+    background-color:#0f0e17;
+}
+body{
+    background-color:#0f0e17;
+    margin: 0;
+    padding: 0;
+}
+.fix{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    
+}
